@@ -1,0 +1,6 @@
+{
+  "name": "CraveO",
+  "description": "CraveO – Online Food Delivery Application connecting Customers, Restaurants, Delivery Partners, and Administrators with real-time order tracking and management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
